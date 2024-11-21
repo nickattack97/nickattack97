@@ -1,5 +1,5 @@
 - 👋 Greetings!
-- 👀 I’m working on Payroll Platforms, Payment Platforms/Intergrations & Machine Learning.
+- 👀 I’m working on Payment Platforms/Intergrations with Machine Learning.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on C#, Python and TypeScript & JavaScript projects.
 - 📫 Email me on - nickdhl.jr@live.com.
